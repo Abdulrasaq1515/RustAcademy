@@ -30,7 +30,7 @@
     "node-cron": "^4.6.0",
     "node-fetch": "2",
     "stellar-sdk": "^13.3.0",
-    "toml": "^3.0.0",
+    "toml": "^5.0.1",
     "uuid": "^14.0.1"
   },
   "version": "1.0.0",
